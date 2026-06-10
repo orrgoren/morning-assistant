@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import type { LineItem, DocType } from '../types';
+import type { LineItem } from '../types';
 import { DOC_TYPE_LABELS } from '../types';
 
 const VAT_RATE = 0.18;
